@@ -147,7 +147,7 @@ Now that your Slack app is set up, you can integrate it with your toolchain in I
 1. Within the __Deploy__ stage, click the __Run Stage__ icon.
 1. The stage will start running and verification messages will appear in your Slack workspace channel. In a real world scenario, everyone on your team would have better visualization of the project changes through these types of automated deployment messages.
 
-  ![Screen capture of Deploy stage updates appearing within the Slack channel](images/slack.png)
+  ![Screen capture of Deploy stage updates appearing within the Slack channel](images/slack_k8s.png)
 
 ## Conclusion
 
